@@ -4,7 +4,7 @@ A backend system for managing financial records with role-based access control a
 ---
 
 ## 🚀 Features
-
+Note: This project focuses on backend APIs and does not include a frontend interface.
 ### 👤 User & Role Management
 - Create and manage users
 - Role-based access control:
@@ -110,6 +110,54 @@ This project demonstrates:
 - Data processing & aggregation
 
 ---
+
+## ⚙️ Setup Instructions
+### 1. Clone repository
+git clone https://github.com/your-username/finance-backend.git
+cd finance-backend
+---
+### 2. Install dependencies
+npm install
+---
+### 4. Run server
+npm run dev
+
+## 🧪 API Testing (Using Postman)
+
+This backend does not include a frontend UI.  
+APIs can be tested using Postman.
+
+### Steps:
+
+1. Start the server:
+
+
+2. Use Postman to test endpoints
+
+### Example:
+
+#### Get Records
+GET http://localhost:5000/api/records
+
+Header:
+role: analyst
+
+---
+
+#### Create Record
+POST http://localhost:5000/api/records
+
+Header:
+role: admin
+
+Body:
+{
+  "amount": 500,
+  "type": "expense",
+  "category": "food",
+  "userId": "YOUR_USER_ID"
+}
+
 
 ## 👨‍💻 Author
 
