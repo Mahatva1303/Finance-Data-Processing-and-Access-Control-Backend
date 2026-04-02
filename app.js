@@ -12,7 +12,7 @@ app.use("/api/records", recordRoutes);
 
 app.use("/api/users", userRoutes);
 
-// Routes (we will add later)
+
 app.get("/", (req, res) => {
   res.send("Finance Backend Running 🚀");
 });
