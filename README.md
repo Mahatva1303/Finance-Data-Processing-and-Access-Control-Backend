@@ -112,11 +112,11 @@ This project demonstrates:
 ---
 
 ## ⚙️ Setup Instructions
-### 1. Clone repository
-git clone https://github.com/your-username/finance-backend.git
+## 1. Clone repository
+git clone
 cd finance-backend
 ---
-### 2. Install dependencies
+## 2. Install dependencies
 npm install
 ---
 ### 4. Run server
