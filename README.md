@@ -96,9 +96,7 @@ A backend system for managing financial records with role-based access control a
 ## 🚀 Future Improvements
 
 - JWT Authentication
-- Pagination
 - Search functionality
-- API documentation (Swagger)
 - Frontend integration
 
 ---
