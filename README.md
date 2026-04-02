@@ -113,13 +113,13 @@ This project demonstrates:
 
 ## ⚙️ Setup Instructions
 ## 1. Clone repository
-git clone
-cd finance-backend
----
+- git clone
+- cd finance-backend
+
 ## 2. Install dependencies
-npm install
----
-### 4. Run server
+- npm install
+
+### 3. Run server
 npm run dev
 
 ## 🧪 API Testing (Using Postman)
