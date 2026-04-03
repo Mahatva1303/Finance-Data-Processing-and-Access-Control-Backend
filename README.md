@@ -162,3 +162,12 @@ Body:
 ## 👨‍💻 Author
 
 Mahatva Agarwal
+
+
+## Screenshorts
+<p align="center">
+  <img src="Screenshot1.png"  width="350"/>
+  <img src="Screenshot2.png"  width="350"/>
+   <img src="Screenshot3.png" width="350"/>
+  <img src="Screenshot4.png"  width="350"/>
+</p>
